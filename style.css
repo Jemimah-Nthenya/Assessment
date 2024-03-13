@@ -1,0 +1,35 @@
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: smaller;
+}
+#container{
+  display: flex;  
+}
+.heading{
+    display: flex;
+    justify-content: space-evenly;
+font-size: smaller;
+}
+#images{
+    display: flex;
+    justify-content: space-evenly;
+}
+#navbar2{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: smaller;
+}
+#forhim{
+    display: flex;
+    justify-content: end;
+}
+#new{
+    display: flex;
+    justify-content: end;
+}
+#shopping{
+    display: flex;
+}
+
+
